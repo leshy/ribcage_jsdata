@@ -1,0 +1,21 @@
+{
+  "name": "ribcage_jsdata",
+  "version": "1.0.0",
+  "description": "jsdata store plugin for ribcage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leshy/ribcage_jsdata.git"
+  },
+  "dependencies": {
+  },
+  "author": "lesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leshy/ribcage_jsdata/issues"
+  },
+  "homepage": "https://github.com/leshy/ribcage_jsdata"
+}
