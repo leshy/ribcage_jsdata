@@ -1,1 +1,1 @@
-mongodb plugin for [ribcage](https://github.com/leshy/ribcage/)
+jsdata plugin for [ribcage](https://github.com/leshy/ribcage/)
