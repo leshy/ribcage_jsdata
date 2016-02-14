@@ -9,5 +9,6 @@ exports.lego = backbone.Model.extend4000 do
     @env.db = new jsData.DS()
     @env.jsData = adapter = new @settings.adapter @settings.options
     @env.db.registerAdapter 'main', adapter, default: true
-    
-    callback undefined, data
+    @env.log 'jsdata initialized' {}, 'init','ok'
+
+    callback()
